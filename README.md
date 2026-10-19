@@ -21,9 +21,6 @@ https://github.com/user-attachments/assets/bebad9f7-a04d-4d58-a1af-bf7df316bdb0
 - Investigate recorded dietary preferences.
 - Develop interactive visualisations to communicate findings clearly.
 
-## 📸 Dashboard Preview
-
-![Fitness and Health Tracking Dashboard](Fitness%20Tracker%20img.png)
 
 ##  Tools and Technologies
 
