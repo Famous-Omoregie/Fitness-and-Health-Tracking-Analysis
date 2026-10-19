@@ -6,6 +6,10 @@ The Fitness and Health Tracking Analysis project explores physical activity, wor
 
 The project aims to transform fitness and lifestyle data into meaningful insights through interactive visualisations, key performance indicators (KPIs), and comparisons across demographic groups.
 
+## 📸 Dashboard Preview
+
+![Fitness and Health Tracking Dashboard](Fitness%20Tracker%20img.png)
+
 https://github.com/user-attachments/assets/bebad9f7-a04d-4d58-a1af-bf7df316bdb0
 
 ##  Project Objectives
@@ -16,6 +20,10 @@ https://github.com/user-attachments/assets/bebad9f7-a04d-4d58-a1af-bf7df316bdb0
 - Compare fitness patterns across age groups and gender categories.
 - Investigate recorded dietary preferences.
 - Develop interactive visualisations to communicate findings clearly.
+
+## 📸 Dashboard Preview
+
+![Fitness and Health Tracking Dashboard](Fitness%20Tracker%20img.png)
 
 ##  Tools and Technologies
 
