@@ -24,7 +24,7 @@ The project aims to transform fitness and lifestyle data into meaningful insight
 - KPI Development
 - Data Modelling
 
-## 📊 Key Areas Explored
+##  Key Areas Explored
 
 ### 1. Physical Activity
 Examining daily step counts and activity categories to understand recorded activity patterns.
